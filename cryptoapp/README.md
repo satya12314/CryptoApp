@@ -1,3 +1,50 @@
+# CryptoApp Using Reactjs
+ fetching the Api data from  api.coingecko.com
+
+# Some of the interesting Features of my App is :
+  1> Using Carousel(npm package) for SlideShow 
+  2> Showing Top-10 cryptoCoin in slideShow
+  3> On clicking the particular coin a new page open to show the Historical data of the coin from last 1 years
+  4> Using Chartjs to show the historical data of the coin.
+  5> Login and SignUp functionality is Provided and the users data i encrypted using json web token(npm package)
+  
+#  ScreenShots of my App
+
+  1.> Login and SignUp Feature
+  
+  ![Screenshot (139)](https://user-images.githubusercontent.com/62735655/154646157-5a5ed85a-5c7f-49d2-be16-e4dd5ca8e538.png)
+  
+  2.> Home Page  SlideShow of Top-10 coins using carousel
+   
+   ![Screenshot (140)](https://user-images.githubusercontent.com/62735655/154646337-820329e3-7632-4149-a6bb-bbfa47a8765f.png)
+  
+  3.> List of all the 100 crypto Coins
+  
+   ![Screenshot (141)](https://user-images.githubusercontent.com/62735655/154646448-7f7af97a-dfd7-434c-9ac5-5ea9efccfb88.png)
+
+  4.> Statistical data of the Tether Coin
+   
+   ![Screenshot (142)](https://user-images.githubusercontent.com/62735655/154646615-fb22d27a-7562-4168-bef4-5b95a42eed34.png)
+
+  5.> INR and USD data is provided in both Statistic
+
+    ![Screenshot (143)](https://user-images.githubusercontent.com/62735655/154646731-4806d81a-9be9-4a35-b311-d10aea9d1ab7.png)
+
+  6>. Sidebar containing watchList and Logout function with the user's Detail
+
+   ![Screenshot (144)](https://user-images.githubusercontent.com/62735655/154646880-e1db5f51-7e58-4f00-ad99-a78b12f0934c.png)
+
+
+
+
+
+  
+  
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
